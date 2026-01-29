@@ -1,0 +1,15 @@
+# Data
+data/
+*.json
+*.csv
+
+# Models
+models/*.joblib
+models/*.pkl
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
